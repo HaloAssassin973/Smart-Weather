@@ -12,7 +12,7 @@
 
 **Демо работы приложения.**
 
-    Видео
+![Иллюстрация к проекту](https://github.com/HaloAssassin973/Smart-Weather/blob/master/Smart%20Weather/Demo/Day.png)
     
 **Процесс работы программы.**
 
