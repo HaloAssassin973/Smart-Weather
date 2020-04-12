@@ -12,7 +12,7 @@
 
 **Демо работы приложения.**
 
-[![Watch the video](https://raw.githubusercontent.com/HaloAssassin973/Smart-Weather/master/Smart%20Weather/Demo/Demo.mov)
+![Watch the video](https://raw.githubusercontent.com/HaloAssassin973/Smart-Weather/master/Smart%20Weather/Demo/Demo.mov)
     
 **Процесс работы программы.**
 
