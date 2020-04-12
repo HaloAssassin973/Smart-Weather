@@ -8,11 +8,11 @@
    - Язык програмирования: Swift
    - Мобильное приложение
    - В ответ на запрос пользователю придет, карта с его положением, краткое описание погоды, температура и иконка текущей погоды
-   Фото ответа
+   ![Иллюстрация к проекту](https://github.com/HaloAssassin973/Smart-Weather/blob/master/Smart%20Weather/Demo/Day.png)
 
 **Демо работы приложения.**
 
-![Иллюстрация к проекту](https://github.com/HaloAssassin973/Smart-Weather/blob/master/Smart%20Weather/Demo/Day.png)
+[![Watch the video](https://raw.githubusercontent.com/HaloAssassin973/Smart-Weather/master/Smart%20Weather/Demo/Demo.mov)
     
 **Процесс работы программы.**
 
