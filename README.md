@@ -9,7 +9,6 @@
    - Мобильное приложение
    - В ответ на запрос пользователю придет, карта с его положением, краткое описание погоды, температура и иконка текущей погоды
    ![Иллюстрация к проекту](https://github.com/HaloAssassin973/Smart-Weather/blob/master/Smart%20Weather/Demo/Day.png)
-   ![Иллюстрация к проекту](https://github.com/HaloAssassin973/Smart-Weather/blob/master/Smart%20Weather/Demo/Night.png)
 
 **Демо работы приложения.**
 
